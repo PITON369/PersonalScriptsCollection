@@ -3,7 +3,7 @@
 This repository contains a collection of useful automation scripts that I have created over time for various tasks and environments.
 
 ## Structure
-- /Added a collection of scripts./ – Scripts for automating tasks in Windows, including file management, system administration, and more.
+- /windows-scripts/ – Scripts for automating tasks in Windows, including file management, system administration, and more.
 
 - /bash/ – Bash scripts for Linux-based environments to automate various system operations.
 
