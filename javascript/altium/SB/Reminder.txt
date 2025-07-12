@@ -1,0 +1,8 @@
+SB_PAD_0.3.5 = SB_PAD_0.3.6, кроме того, что в 0.3.6 линии осей строятся по самой большой стороне (Pad.HoleWidth).
+SB_PAD_0.4.1 добавлен пунктир металлизации, оси строятся как удвоенный радиус металлизации
+
+ScriptingSystem:RunScript
+ProjectName=C:\Users\GulyaevAS\Desktop\Work\Scripts for Altium\СБ\СБ.PrjScr|ProcName=SB_PAD_0.3.6.js>Start
+SB_PAD_0.3.6
+SB_PAD_0.3.6
+C:\Users\GulyaevAS\Desktop\Work\Scripts for Altium\СБ\PAD.bmp
